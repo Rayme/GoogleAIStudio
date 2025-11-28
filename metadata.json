@@ -1,0 +1,5 @@
+{
+  "name": "AmzGenius - Seller Analytics & AI Advisor",
+  "description": "An AI-powered dashboard for Amazon Sellers to analyze sales data, interpret dashboard screenshots, and perform market research using Gemini models.",
+  "requestFramePermissions": []
+}
